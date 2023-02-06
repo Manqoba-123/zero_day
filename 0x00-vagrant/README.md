@@ -1,1 +1,3 @@
-The answer will be written here shortly
+ What does the command uname print when you run it without any option?
+
+it prints certain system information
